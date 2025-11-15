@@ -7,3 +7,9 @@ The PDB files for the Davis and KIBA datasets are available for download at this
 
 ### Step 1
 Run protein_graph.py to obtain protein graphs.
+
+### Step 2
+Run molecular_graph_preprocessing.py to obtain drug graphs.
+
+### Step3
+Run main.py
