@@ -38,7 +38,7 @@ Execute the main script:
 
 ```bash
 
-python main.py
+python main_warm.py
 
 ```
 
