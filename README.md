@@ -4,12 +4,6 @@ The PDB files for the Davis and KIBA datasets are available for download in the 
 
 1. Download via link: [zhaolongNCU/PocketDTA](https://github.com/zhaolongNCU/PocketDTA)
 
-2. Run the download script directly:
-
-   - For Davis dataset: `download_pdb_davis.py`
-
-   - For KIBA dataset: `download_pdb_kiba.py`
-
 
 
 ## 🚀 Running Steps
